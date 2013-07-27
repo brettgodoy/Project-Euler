@@ -1,0 +1,5 @@
+C:\Users\Brett\documents\visual studio 2012\Projects\ProjectEulerProblem10\ProjectEulerProblem10\bin\Debug\ProjectEulerProblem10.exe
+C:\Users\Brett\documents\visual studio 2012\Projects\ProjectEulerProblem10\ProjectEulerProblem10\bin\Debug\ProjectEulerProblem10.pdb
+C:\Users\Brett\documents\visual studio 2012\Projects\ProjectEulerProblem10\ProjectEulerProblem10\obj\Debug\ProjectEulerProblem10.csprojResolveAssemblyReference.cache
+C:\Users\Brett\documents\visual studio 2012\Projects\ProjectEulerProblem10\ProjectEulerProblem10\obj\Debug\ProjectEulerProblem10.exe
+C:\Users\Brett\documents\visual studio 2012\Projects\ProjectEulerProblem10\ProjectEulerProblem10\obj\Debug\ProjectEulerProblem10.pdb
